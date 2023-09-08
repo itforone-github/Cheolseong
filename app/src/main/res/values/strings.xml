@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">알까기</string>
+    <string name="url">http://www.alkkaki.com/~cheolseong/test.php</string>
+    <string name="domain">http://www.alkkaki.com/~cheolseong/</string>
+</resources>
